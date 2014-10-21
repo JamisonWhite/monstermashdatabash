@@ -1,0 +1,312 @@
+Cluster #0 Vectors: 8
+Most Frequent Terms
+	look around: 8
+	look up: 8
+	come in: 8
+	shake head: 8
+	come on: 8
+	talk about: 7
+	get up: 7
+	room night: 7
+	get here: 7
+	across room: 7
+
+Movies
+	jabberjaw night
+	friday 13th
+	the hous
+	jaw reveng
+	black screen
+	in int
+	in int
+	jacob ladder
+
+Cluster #1 Vectors: 80
+Most Frequent Terms
+	come on: 73
+	behind him: 70
+	can see: 69
+	right now: 68
+	look up: 68
+	go on: 68
+	shake head: 67
+	look around: 66
+	cut to: 64
+	let go: 63
+
+Movies
+	eight millimet
+	ninth gate
+	alien alien
+	alien iii
+	a l
+	ext deep
+	alien sometim
+	1 man
+	base novel
+	american werewolf
+	b l
+	b l
+	stephen king
+	cherri fall
+	compani wolv
+	plan 9
+	comic book
+	dark citi
+	dark citi
+	robert mark
+	dusk till
+	ed wood
+	exterior iraq
+	steph ladi
+	tod brown
+	in 1
+	friday 13th
+	night sky
+	by peter
+	harold rami
+	harold rami
+	in ext
+	return michael
+	kevin williamson
+	john carpent
+	int car
+	neil jordan
+	still know
+	24 1999
+	jaw 3d
+	in ext
+	t h
+	silenc lamb
+	lost highway
+	lost soul
+	larg white
+	in ext
+	men black
+	men black
+	m m
+	nightmar elm
+	nightmar elm
+	nightmar elm
+	wes craven
+	night hunter
+	old dark
+	s y
+	rebecca rebecca
+	ami holden
+	resid evil
+	1998 in
+	andrew kevin
+	7 day
+	7 day
+	sixth sens
+	base novel
+	base novel
+	night set
+	stone tape
+	addam famili
+	the bird
+	shot across
+	green mile
+	twelv monkey
+	urban legend
+	main titl
+	north texa
+	young frankenstein
+	walk zombi
+	lost world
+
+Cluster #2 Vectors: 8
+Most Frequent Terms
+	last night: 8
+	come on: 7
+	put hand: 7
+	right now: 7
+	want know: 7
+	can get: 7
+	tri get: 7
+	love you: 7
+	go get: 6
+	no no: 6
+
+Movies
+	blair witch
+	transcrib bj
+	halloween ii
+	heather origin
+	heather origin
+	know last
+	base novel
+	in int
+
+Cluster #3 Vectors: 11
+Most Frequent Terms
+	can see: 11
+	get car: 11
+	front door: 10
+	live room: 10
+	get out: 10
+	close door: 10
+	come on: 10
+	look window: 10
+	want know: 9
+	behind her: 9
+
+Movies
+	continu int
+	friday 13th
+	pictur releas
+	hous damn
+	hous 1000
+	scream scream
+	phone ring
+	scene 1
+	t w
+	white angel
+	witch hour
+
+Cluster #4 Vectors: 10
+Most Frequent Terms
+	come on: 9
+	go get: 9
+	right now: 9
+	oh god: 9
+	jesus christ: 8
+	go there: 8
+	tell me: 8
+	last night: 8
+	got it: 7
+	can hear: 7
+
+Movies
+	jesus christ
+	t h
+	evil dead
+	run man
+	scream ext
+	scream 2
+	scream 3
+	scream 3
+	shock treatment
+	reggi jodi
+
+Cluster #5 Vectors: 6
+Most Frequent Terms
+	look up: 6
+	behind him: 6
+	can see: 6
+	one one: 6
+	watch him: 6
+	make way: 5
+	hand look: 5
+	turn face: 5
+	fall floor: 5
+	hand reach: 5
+
+Movies
+	blade blade
+	communiti blood
+	david s
+	book dead
+	just you
+	base novel
+
+Cluster #6 Vectors: 2
+Most Frequent Terms
+	natur born: 2
+	born killer: 2
+	quentin tarantino: 2
+	int coffe: 2
+	coffe shop: 2
+	shop day: 2
+	new mexico: 2
+	mexico mickey: 2
+	mickey knox: 2
+	knox turn: 2
+
+Movies
+	natur born
+	natur born
+
+Cluster #7 Vectors: 13
+Most Frequent Terms
+	excus me: 10
+	no no: 9
+	come on: 9
+	oh no: 9
+	must go: 9
+	last night: 8
+	come in: 8
+	tell us: 8
+	love you: 8
+	day night: 7
+
+Movies
+	home movi
+	armi dark
+	transcrib bj
+	evil dead
+	cast count
+	rocki horror
+	shallow grave
+	sleepi hollow
+	transcrib bj
+	transcrib bj
+	transcrib bj
+	transcrib bj
+	transcrib bj
+
+Cluster #8 Vectors: 17
+Most Frequent Terms
+	get here: 16
+	behind him: 16
+	come on: 16
+	look around: 15
+	look up: 15
+	go on: 14
+	one hand: 14
+	let go: 14
+	turn see: 14
+	shake head: 13
+
+Movies
+	3 eric
+	alien vs
+	bonni nanci
+	day dead
+	sever page
+	j w
+	j w
+	pleas note
+	jurass park
+	king kong
+	globe spin
+	thoma john
+	brendan broderick
+	written direct
+	wild thing
+	ed solomon
+	pleas note
+
+Cluster #9 Vectors: 7
+Most Frequent Terms
+	think so: 6
+	can see: 6
+	got it: 6
+	get here: 6
+	shut up: 6
+	tell us: 6
+	just want: 5
+	way can: 5
+	long time: 5
+	got lot: 5
+
+Movies
+	alien iii
+	alien iii
+	evil dead
+	twentieth centuri
+	bad thing
+	shock treatment
+	brad janet
+
